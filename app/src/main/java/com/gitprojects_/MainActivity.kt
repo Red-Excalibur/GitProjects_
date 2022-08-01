@@ -9,6 +9,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Toast.makeText(this,"kotlin to Github",Toast.LENGTH_SHORT)
+        Toast.makeText(this,"kotlin to Github",Toast.LENGTH_SHORT).show()
+
+        Toast.makeText(this,"kotlin to Github for the secons time",Toast.LENGTH_SHORT).show()
+
     }
 }
