@@ -11,7 +11,13 @@ class MainActivity : AppCompatActivity() {
 
         Toast.makeText(this,"kotlin to Github",Toast.LENGTH_SHORT).show()
 
-        Toast.makeText(this,"kotlin to Github for the secons time",Toast.LENGTH_SHORT).show()
+
+        Toast.makeText(this,"kotlin to Github for the second time",Toast.LENGTH_SHORT).show()
+
+        //a third update
+        Toast.makeText(this,"kotlin to Github for the third time",Toast.LENGTH_SHORT).show()
+
+
 
     }
 }

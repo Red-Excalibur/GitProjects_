@@ -2,7 +2,7 @@ plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
 }
-
+//hello that's just a test for the hosting system ..Github
 android {
     compileSdk 32
 
