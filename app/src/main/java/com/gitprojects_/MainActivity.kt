@@ -19,6 +19,10 @@ class MainActivity : AppCompatActivity() {
         
         //forth test
         Toast.makeText(this,"kotlin from Github for the first time",Toast.LENGTH_SHORT).show()
+
+                Toast.makeText(this,"desktop from Github for the first time",Toast.LENGTH_SHORT).show()
+
+
         
 
 
