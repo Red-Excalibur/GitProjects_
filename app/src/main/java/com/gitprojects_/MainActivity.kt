@@ -23,7 +23,15 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this,"desktop from Github for the first time",Toast.LENGTH_SHORT).show()
 
 
-        
+        //android studio to desktop to Github
+        Toast.makeText(this,"android studio to desktop to Github",Toast.LENGTH_SHORT).show()
+
+        //another test if its live or not
+        //believe it or not  the desktop is live with me 
+
+
+
+
 
 
 
